@@ -1,4 +1,4 @@
-### Hey there, I'm Tobias - AKA TheDutchMC
+### Hello! I'm Tobias, aka TheDutchMC
 #### I'm a student, restaurant worker and programmer
 
 ### Languages
@@ -15,5 +15,6 @@
 <br>
 
 ### Statistics
-[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true)](https://github.com/TheDutchMC/)
+[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true)](https://github.com/TheDutchMC/)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchMC&layout=compact)](https://github.com/TheDutchMC)
 
