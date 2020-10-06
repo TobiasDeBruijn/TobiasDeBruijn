@@ -1,4 +1,4 @@
-### Hello! I'm Tobias, aka TheDutchMC
+### Hello! I'm Tobias, aka TheDutchMC, aka Dutchy76
 #### I'm a student, restaurant worker and programmer
 
 ### Languages
