@@ -14,9 +14,11 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
+<br>
+<br>
 
-<br>
-<br>
+### Mirror
+All my GitHub repositories are mirrored [here](https://gitea.apps.thedutchmc.nl)
 
 ### Statistics
 [![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true)](https://github.com/TheDutchMC/)  
