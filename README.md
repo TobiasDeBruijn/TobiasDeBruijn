@@ -19,6 +19,6 @@
 All my GitHub repositories are mirrored [here](https://gitea.apps.thedutchmc.nl)
 
 ### Statistics
-[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true)](https://github.com/TheDutchMC/)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchMC&layout=compact)](https://github.com/TheDutchMC)
+[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchMC&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/TheDutchMC)
 
