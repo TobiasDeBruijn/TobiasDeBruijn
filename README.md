@@ -8,7 +8,7 @@
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" title="Rust" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
 <img align="left" title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
@@ -22,13 +22,16 @@
 <img align="left" title="Docker" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" title="Gradle" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
 <img align="left" title="NGINX" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<img align="left" title="Kubernetes" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
 
 
 <br>
 <br>
 
+<!--
 ### Mirror
 All my GitHub repositories are mirrored [here](https://gitea.apps.thedutchmc.nl)
+-->
 
 ### Statistics
 [![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
