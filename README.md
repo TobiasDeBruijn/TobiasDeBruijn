@@ -10,7 +10,6 @@
 <img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" title="Rust" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
 <img align="left" title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 <br>
 
@@ -28,10 +27,8 @@
 <br>
 <br>
 
-<!--
-### Mirror
-All my GitHub repositories are mirrored [here](https://gitea.apps.thedutchmc.nl)
--->
+### Git Mirror
+[Gitea](https://gitea.k8s.array21.dev/)
 
 ### Statistics
 [![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
