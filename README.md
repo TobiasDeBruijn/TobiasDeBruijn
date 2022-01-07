@@ -1,4 +1,4 @@
-### Hello! I'm Tobias, aka TheDutchMC, aka Dutchy76
+### Hello! I'm Tobias, aka Dutchy76
 
 
 ### Language I'm familiar with:
@@ -31,6 +31,6 @@
 [Gitea](https://gitea.k8s.array21.dev/)
 
 ### Statistics
-[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TheDutchMC&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchMC&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/TheDutchMC)
+[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasDeBruijn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasDeBruijn&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/TheDutchMC)
 
