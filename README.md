@@ -10,6 +10,9 @@
 <img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" title="Rust" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
 <img align="left" title="PHP" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 
 <br>
 
@@ -27,8 +30,9 @@
 <br>
 <br>
 
-### Git Mirror
-[Gitea](https://gitea.k8s.array21.dev/)
+### Additional Git hosts
+
+[Utrecht University](https://git.science.uu.nl/TobiasDeBruijn)
 
 ### Statistics
 [![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasDeBruijn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
