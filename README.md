@@ -35,6 +35,6 @@
 [Utrecht University](https://git.science.uu.nl/TobiasDeBruijn)
 
 ### Statistics
-[![TheDutchMC Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasDeBruijn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TheDutchMC/)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasDeBruijn&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/TheDutchMC)
+[![TobiasDeBruijn Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasDeBruijn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/TobiasDeBruijn)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasDeBruijn&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/TobiasDeBruijn)
 
