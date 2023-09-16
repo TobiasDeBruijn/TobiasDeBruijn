@@ -1,4 +1,4 @@
-### Hello! I'm Tobias, aka Dutchy76
+### Hi, Welcome
 
 
 ### Language I'm familiar with:
@@ -10,10 +10,6 @@
 <img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 
-<br>
-
-
-<br>
 <br>
 
 ### Git elsewhere
